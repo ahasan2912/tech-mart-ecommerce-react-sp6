@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/PxCwkst/action.png",
+      "title": "Green Screen",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/1RJh6Lk/airburd.jpg",
+      "title": "Flex Tripod",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/jvZ8sWf/airpod.png",
+      "title": "Microphone",
+      "price": 15.49
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/dcFqRG0/camera.png",
+      "title": "Airbuds",
+      "price": 12.99
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/Pjy8CN7/camera2.jpg",
+      "title": "Drone",
+      "price": 59.99
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/FxnvnLw/drone.png",
+      "title": "Light Setup",
+      "price": 8.49
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/jW1qx5b/gear.png",
+      "title": "Photoshoot set",
+      "price": 14.99
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/qrCWDhc/lights.png",
+      "title": "Vlogging Carmera",
+      "price": 24.99
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/JscHcfZ/main-camera.png",
+      "title": "Action Camera",
+      "price": 39.99
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co.com/cy77211/mic.png",
+      "title": "Foldable Mobile",
+      "price": 69.99
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/CKfCPKB/mobile.jpg",
+      "title": "Air Pods Pro",
+      "price": 11.99
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/1Gn1R8s/setup.png",
+      "title": "DSLR Camera",
+      "price": 9.99
+    }
+  ]
+  
